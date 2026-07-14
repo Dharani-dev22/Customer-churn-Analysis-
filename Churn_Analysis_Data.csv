@@ -1,0 +1,21 @@
+CustomerID,Customer_Status,Risk_Segment,Churn_Month,Tenure_Months,Acquisition_Channel,Product_Category
+C-1001,Churned,Lost,2026-01-01,2,Android App,Groceries
+C-1002,Retained,Safe,Null,12,Website,Personal Care
+C-1003,At-Risk,High Risk,Null,4,Android App,Snacks
+C-1004,Churned,Lost,2026-02-01,1,Social Ads,Dairy
+C-1005,Retained,Hibernating,Null,8,Website,Groceries
+C-1006,Churned,Lost,2026-03-01,3,Android App,Personal Care
+C-1007,Retained,Safe,Null,24,Website,Snacks
+C-1008,At-Risk,High Risk,Null,2,Social Ads,Groceries
+C-1009,Churned,Lost,2026-04-01,5,Android App,Dairy
+C-1010,Retained,Safe,Null,9,Website,Groceries
+C-1011,Churned,Lost,2026-05-01,1,Social Ads,Personal Care
+C-1012,Retained,Hibernating,Null,6,Android App,Snacks
+C-1013,Churned,Lost,2026-06-01,2,Website,Groceries
+C-1014,At-Risk,High Risk,Null,3,Android App,Dairy
+C-1015,Retained,Safe,Null,15,Website,Personal Care
+C-1016,Churned,Lost,2026-06-01,4,Social Ads,Groceries
+C-1017,At-Risk,High Risk,Null,1,Android App,Snacks
+C-1018,Retained,Hibernating,Null,7,Website,Dairy
+C-1019,Churned,Lost,2026-07-01,2,Android App,Personal Care
+C-1020,Retained,Safe,Null,18,Website,Groceries
